@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demo Login App Suite">
+    <test name="Smoke Tests">
+        <classes>
+            <class name="com.revature.LoginTests" />
+        </classes>
+    </test> <!-- Test -->
+
+    <test name="Regression Tests">
+
+    </test>
+
+<!--    <test name="Website tests">-->
+<!--        <classes>-->
+<!--            <class name="" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    -->
+<!--    <test name="Mobile tests">-->
+<!--        <classes>-->
+<!--            <class name="" />-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite> <!-- Suite -->
